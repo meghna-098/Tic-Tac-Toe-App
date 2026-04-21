@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class TicTacToeUC2 {
+public class TicTacToeUC2 { 
 
     // Game state variables
     static char userSymbol;
